@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hacker News</string>
+    <string name="firebase_url">https://hacker-news.firebaseio.com/v0</string>
+</resources>
